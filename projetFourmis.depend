@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1430143892 source:c:\users\rotsy\documents\info 121\projet_fourmis\projetfourmis\main.cpp
+	<iostream>
+	"simulation.hpp"
+
+1430139462 source:c:\users\rotsy\documents\info 121\projet_fourmis\projetfourmis\coord.cpp
+	<iostream>
+	<algorithm>
+	<cstdlib>
+	<ctime>
+	"coord.hpp"
+
+1429468874 c:\users\rotsy\documents\info 121\projet_fourmis\projetfourmis\coord.cpp
+	<iostream>
+	<algorithm>
+	"coord.hpp"
+
+1430085744 source:c:\users\rotsy\documents\info 121\projet_fourmis\projetfourmis\fourmis.cpp
+	<iostream>
+	"fourmis.hpp"
+
+1430131334 c:\users\rotsy\documents\info 121\projet_fourmis\projetfourmis\coord.hpp
+	<map>
+
+1430142384 source:c:\users\rotsy\documents\info 121\projet_fourmis\projetfourmis\place.cpp
+	<iostream>
+	"fourmis.hpp"
+	"place.hpp"
+
+1430083099 c:\users\rotsy\documents\info 121\projet_fourmis\projetfourmis\fourmis.hpp
+	"coord.hpp"
+	<map>
+
+1430142304 c:\users\rotsy\documents\info 121\projet_fourmis\projetfourmis\place.hpp
+	"fourmis.hpp"
+	<map>
+
+1430010843 source:c:\users\rotsy\documents\info 121\projet_fourmis\projetfourmis\grille.cpp
+	<iostream>
+	<algorithm>
+	"grille.hpp"
+
+1430146052 c:\users\rotsy\documents\info 121\projet_fourmis\projetfourmis\simulation.hpp
+	"fourmis.hpp"
+	"grille.hpp"
+	<map>
+
+1429999397 c:\users\rotsy\documents\info 121\projet_fourmis\projetfourmis\grille.hpp
+	<algorithm>
+	"coord.hpp"
+	"place.hpp"
+
+1430142765 source:c:\users\rotsy\documents\info 121\projet_fourmis\projetfourmis\simulation.cpp
+	"simulation.hpp"
+	<iostream>
+	<iomanip>
+	<sstream>
+	<fstream>
+	<string>
+
